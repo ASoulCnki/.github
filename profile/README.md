@@ -70,11 +70,11 @@ A-SOUL是乐华娱乐于2020年11月23日公开的其旗下首个虚拟偶像团
 
 枝网欢迎大家使用API
 
-API 文档可以参见[这里](./../api/README.md)
+API 文档可以参见[这里](https://github.com/ASoulCnki/.github/blob/master/api/)
 
 ## 关于部署项目
 
-参见[这里](./../deploy/README.md)
+参见[这里](https://github.com/ASoulCnki/.github/blob/master/deploy/)
 
 ## 如何贡献
 
