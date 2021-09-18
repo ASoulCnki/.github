@@ -1,13 +1,15 @@
 # ASoulCnki 枝网
 
-<div class="banner">
-  <a href="#简介"><div>简介</div></a>
-  <a href="#asoul"><div>A-Soul</div></a>
-  <a href="#已有项目"><div>已有项目</div></a>
-  <a href="#api"><div>API</div></a>
-  <a href="#关于部署项目"><div>项目部署</div></a>
-  <a href="#如何贡献"><div>如何贡献</div></a>
-</div>
+<table>
+  <tr>
+    <td><a href="#简介"><div>简介</div></a></td>
+    <td><a href="#asoul"><div>A-Soul</div></a></td>
+    <td><a href="#已有项目"><div>已有项目</div></a></td>
+    <td><a href="#api"><div>API</div></a></td>
+    <td><a href="#关于部署项目"><div>项目部署</div></a></td>
+    <td><a href="#如何贡献"><div>如何贡献</div></a></td>
+  </tr>
+</table>
 
 ## 简介
 
