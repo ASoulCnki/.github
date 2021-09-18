@@ -33,12 +33,12 @@ A-SOUL是乐华娱乐于2020年11月23日公开的其旗下首个虚拟偶像团
 
 <table>
   <tr style="text-align: center;">
-    <td><img style="width:128px" src="./assets/member_image/ava.jpg"><br><a href="https://space.bilibili.com/672346917">向晚大魔王</a></td>
-    <td><img style="width:128px" src="./assets/member_image/bella.jpg"><br><a href="https://space.bilibili.com/672353429">贝拉Kira</a></td>
-    <td><img style="width:128px" src="./assets/member_image/carol.jpg"><br><a href="https://space.bilibili.com/351609538">珈乐Carol</a></td>
-    <td><img style="width:128px" src="./assets/member_image/diana.jpg"><br><a href="https://space.bilibili.com/672328094">嘉然今天吃什么</a></td>
-    <td><img style="width:128px" src="./assets/member_image/ellien.jpg"><br><a href="https://space.bilibili.com/672342685">乃琳Queen</a></td>
-    <td><img style="width:128px" src="./assets/member_image/asoul.jpg"><br><a href="https://space.bilibili.com/703007996">A-Soul Official</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/ava.jpg"><br><a href="https://space.bilibili.com/672346917">向晚大魔王</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/bella.jpg"><br><a href="https://space.bilibili.com/672353429">贝拉Kira</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/carol.jpg"><br><a href="https://space.bilibili.com/351609538">珈乐Carol</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/diana.jpg"><br><a href="https://space.bilibili.com/672328094">嘉然今天吃什么</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/ellien.jpg"><br><a href="https://space.bilibili.com/672342685">乃琳Queen</a></td>
+    <td><img style="width:128px" src="https://github.com/ASoulCnki/.github/blob/master/profile/assets/member_image/asoul.jpg"><br><a href="https://space.bilibili.com/703007996">A-Soul Official</a></td>
   </tr>
 </table>
 
