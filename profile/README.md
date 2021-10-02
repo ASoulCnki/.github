@@ -4,7 +4,6 @@
   <tr>
     <td><a href="#简介"><div>简介</div></a></td>
     <td><a href="#asoul"><div>A-Soul</div></a></td>
-    <td><a href="#已有项目"><div>已有项目</div></a></td>
     <td><a href="#api"><div>API</div></a></td>
     <td><a href="#关于部署项目"><div>项目部署</div></a></td>
     <td><a href="#如何贡献"><div>如何贡献</div></a></td>
@@ -47,16 +46,6 @@ A-SOUL是乐华娱乐于2020年11月23日公开的其旗下首个虚拟偶像团
 在未来学院中，五位性格迥异的少女，为了成为偶像这一共同目标走到一起，并且为之努力奋斗。
 
 设定中，她们生活在虚拟城市枝江。所以系统名为枝网查重系统（化用知网）。
-
-## 已有项目
-
-|名称|详情|
-|----|----|
-|ASoulCnki|枝网爬虫|
-|ASoulCnkiBackEnd|枝网后端|
-|ASoulCnkiFrontEnd|枝网前端|
-|ASoulCnkiFrontEndV3|重构的枝网前端|
-|ASoulCnkiStaticBFF|枝网前端的BFF|
 
 ## API
 
