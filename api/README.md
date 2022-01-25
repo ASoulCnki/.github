@@ -202,7 +202,7 @@ GET /main/v1/ranking/?pageSize=5&pageNum=1&timeRangeMode=0&sortMode=0 HTTP/1.1
 
 流程
 
-1. 该网站重定向到 `https://oauth.asoulcnki.asis/?redirect_uri=https://www.example.com/redirect`
+1. 该网站重定向到 `https://oauth.asoulcnki.asia/?redirect_uri=https://www.example.com/redirect`
 2. 用户完成授权，OAuth 页跳转至 `https://www.example.com/redirect#token=b026324c6904b2a9cb4b88d6d61c81d1`
 3. 第三方网站处理并获取 token 内容，例如这里的 token 为 `b026324c6904b2a9cb4b88d6d61c81d1`
 4. 使用获取的 token 来获取信息
